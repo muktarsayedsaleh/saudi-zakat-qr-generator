@@ -2,6 +2,7 @@
     "name": "muktar-sayedsaleh/zakat-tlv-generator",
     "description": "A PHP package that implements the e-invoice QR code signature requirements as designed by the Zakat authority of Saudi Arabia.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "MuktarSayedSaleh\\ZakatTlv\\": "src/"
